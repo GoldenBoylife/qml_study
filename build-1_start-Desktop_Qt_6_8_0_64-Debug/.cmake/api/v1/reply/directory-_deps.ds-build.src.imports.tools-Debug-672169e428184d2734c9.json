@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/ds-build/src/imports/tools",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/_deps/ds-src/src/imports/tools"
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8d510972e099d38e5d1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_2anchors",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-abd8a1fd929ecb100d13.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-cbaafb05725744dce5cd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-635e27be7fa3eef66d44.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-10c6dc75b7a2302398a4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors-Debug-31e2eac13392e042de60.json",
+					"name" : "app3_2anchors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_autogen-Debug-d40c8b612f2ad1a9cd0d.json",
+					"name" : "app3_2anchors_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_autogen_timestamp_deps-Debug-079018d38950e0cd2908.json",
+					"name" : "app3_2anchors_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_qmlimportscan-Debug-6412ba70bf7a9e98c7ac.json",
+					"name" : "app3_2anchors_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_qmllint-Debug-8860c36c0155ef44dd0a.json",
+					"name" : "app3_2anchors_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_qmllint_json-Debug-db7c12038fa04d4d9850.json",
+					"name" : "app3_2anchors_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_qmllint_module-Debug-29193f7276e54f12fde7.json",
+					"name" : "app3_2anchors_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_qmltyperegistration-Debug-6a6fbd8e7302baf82054.json",
+					"name" : "app3_2anchors_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_2anchors_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_2anchors_tooling-Debug-7404ae73181499413389.json",
+					"name" : "app3_2anchors_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/3_2anchors"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/3_1rectangle/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/3_1rectangle/Main.qml</file>
+    <file alias="resource.qrc">/home/gb/workspaces/qt_ws/qml_study/3_1rectangle/resource.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,10 @@
+--bare
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-2_variables2-Desktop_Qt_6_8_0_64-Debug
+-I
+/home/gb/Qt/6.8.0/gcc_64/./qml
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-2_variables2-Desktop_Qt_6_8_0_64-Debug/.rcc/qmake_2_variables2.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-2_variables2-Desktop_Qt_6_8_0_64-Debug/.rcc/app2_variables2_raw_qml_0.qrc
+/home/gb/workspaces/qt_ws/qml_study/2_variables2/Main.qml

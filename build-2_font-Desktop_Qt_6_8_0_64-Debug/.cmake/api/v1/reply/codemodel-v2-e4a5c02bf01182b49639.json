@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2b297d98c71acb540a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2_font",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5430928697b4eb59f0bc.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1d05bc5b8e408434bf72.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-229742f7666a35f9d76a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d9ac51dcbe23da6911c4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font-Debug-4b8f916518ab9682cf4a.json",
+					"name" : "app2_font",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_autogen-Debug-52c3ba63179f915e816a.json",
+					"name" : "app2_font_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_autogen_timestamp_deps-Debug-af1f7d7725d935fee7dc.json",
+					"name" : "app2_font_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_qmlimportscan-Debug-8d3d5a046bd5aac0c575.json",
+					"name" : "app2_font_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_qmllint-Debug-44c4a8d300ef22e61acf.json",
+					"name" : "app2_font_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_qmllint_json-Debug-20baf5038208b94c5325.json",
+					"name" : "app2_font_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_qmllint_module-Debug-d31813cf5287e7274ccd.json",
+					"name" : "app2_font_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_qmltyperegistration-Debug-624c2b71dd82b2517281.json",
+					"name" : "app2_font_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_font_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_font_tooling-Debug-7750537dbeb2cb823327.json",
+					"name" : "app2_font_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gb/workspaces/qt_ws/qml_study/build-2_font-Desktop_Qt_6_8_0_64-Debug",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/2_font"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/background.png">/home/gb/workspaces/qt_ws/qml_study/1_windmill/images/background.png</file>
+    <file alias="images/pole.png">/home/gb/workspaces/qt_ws/qml_study/1_windmill/images/pole.png</file>
+    <file alias="images/pinwheel.png">/home/gb/workspaces/qt_ws/qml_study/1_windmill/images/pinwheel.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2_font/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/2_font/Main.qml</file>
+  </qresource>
+</RCC>
+

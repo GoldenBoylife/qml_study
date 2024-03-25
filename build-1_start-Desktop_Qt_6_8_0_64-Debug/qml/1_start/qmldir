@@ -1,0 +1,11 @@
+module 1_start
+linktarget 1_startplugin
+optional plugin 1_startplugin
+classname 1_startPlugin
+typeinfo 1_start.qmltypes
+prefer :/qt/qml/1_start/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

@@ -1,0 +1,5 @@
+module 1_windmill
+typeinfo app1_windmill.qmltypes
+prefer :/1_windmill/
+Main 1.0 Main.qml
+

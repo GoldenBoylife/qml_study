@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/3_2anchors">
+    <file alias="qmldir">/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug/3_2anchors/qmldir</file>
+  </qresource>
+</RCC>
+

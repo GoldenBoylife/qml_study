@@ -1,0 +1,14 @@
+--bare
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_image5-Desktop_Qt_6_8_0_64-Debug
+-I
+/home/gb/Qt/6.8.0/gcc_64/./qml
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_image5-Desktop_Qt_6_8_0_64-Debug/.rcc/qmake_1_image5.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_image5-Desktop_Qt_6_8_0_64-Debug/.rcc/app1_image5_raw_qml_0.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_image5-Desktop_Qt_6_8_0_64-Debug/.rcc/PREFIX.qrc
+/home/gb/workspaces/qt_ws/qml_study/1_image5/Main.qml
+--json
+/home/gb/workspaces/qt_ws/qml_study/build-1_image5-Desktop_Qt_6_8_0_64-Debug/app1_image5_qmllint.json

@@ -1,0 +1,5 @@
+module 2_Text_highlight
+typeinfo app2_Text_highlight.qmltypes
+prefer :/2_Text_highlight/
+Main 1.0 Main.qml
+

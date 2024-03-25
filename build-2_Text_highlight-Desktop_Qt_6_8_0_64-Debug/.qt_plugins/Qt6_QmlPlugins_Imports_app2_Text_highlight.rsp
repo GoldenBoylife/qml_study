@@ -1,0 +1,14 @@
+-rootPath
+/home/gb/workspaces/qt_ws/qml_study/2_Text_highlight
+-cmake-output
+-output-file
+/home/gb/workspaces/qt_ws/qml_study/build-2_Text_highlight-Desktop_Qt_6_8_0_64-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2_Text_highlight.cmake
+-importPath
+/home/gb/workspaces/qt_ws/qml_study/build-2_Text_highlight-Desktop_Qt_6_8_0_64-Debug/2_Text_highlight
+-importPath
+/home/gb/workspaces/qt_ws/qml_study/build-2_Text_highlight-Desktop_Qt_6_8_0_64-Debug
+-importPath
+/home/gb/Qt/6.8.0/gcc_64/./qml
+-qrcFiles
+/home/gb/workspaces/qt_ws/qml_study/build-2_Text_highlight-Desktop_Qt_6_8_0_64-Debug/.rcc/qmake_2_Text_highlight.qrc
+/home/gb/workspaces/qt_ws/qml_study/build-2_Text_highlight-Desktop_Qt_6_8_0_64-Debug/.rcc/app2_Text_highlight_raw_qml_0.qrc

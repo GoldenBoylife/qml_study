@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8383437e800eb08aea57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1_windmill",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-84c102dce9b6f8e06201.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-745d56bc32689b5552b6.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-4181603bfa2b1b450900.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-0a73221bde9175b41197.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill-Debug-db12da3bddaddf28df3b.json",
+					"name" : "app1_windmill",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_autogen-Debug-a4924acaad5703eaf4aa.json",
+					"name" : "app1_windmill_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_autogen_timestamp_deps-Debug-72ffda6f04ea1eec2137.json",
+					"name" : "app1_windmill_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_qmlimportscan-Debug-2d9e8ece1ed83edf21a8.json",
+					"name" : "app1_windmill_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_qmllint-Debug-9c624e80d9078cadb12d.json",
+					"name" : "app1_windmill_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_qmllint_json-Debug-e938375e6d14c72c2f73.json",
+					"name" : "app1_windmill_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_qmllint_module-Debug-4b9112cf81e9e58e2b4d.json",
+					"name" : "app1_windmill_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_qmltyperegistration-Debug-838641f2803e65c34c92.json",
+					"name" : "app1_windmill_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app1_windmill_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1_windmill_tooling-Debug-5240a2bee2c8afb7459b.json",
+					"name" : "app1_windmill_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/1_windmill"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

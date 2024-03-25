@@ -1,0 +1,5 @@
+module 2_font
+typeinfo app2_font.qmltypes
+prefer :/2_font/
+Main 1.0 Main.qml
+

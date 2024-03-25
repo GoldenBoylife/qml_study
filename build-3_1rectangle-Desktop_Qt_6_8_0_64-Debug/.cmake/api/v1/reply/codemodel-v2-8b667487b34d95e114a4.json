@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-632fdc64d1fcfdaeaa74.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_1rectangle",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e7ebc14b5365d4c42ec3.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-95bb37b2d1f01ee3d461.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a5df2cee3f019bf7ac3f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-27d6dbbd50b172ba8d62.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle-Debug-89efd1cdb0955ee22448.json",
+					"name" : "app3_1rectangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_autogen-Debug-7a6929f5a5796341046f.json",
+					"name" : "app3_1rectangle_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_autogen_timestamp_deps-Debug-4de2940e7fb8ba5e99d6.json",
+					"name" : "app3_1rectangle_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_qmlimportscan-Debug-c5b3660d4ffccea311b4.json",
+					"name" : "app3_1rectangle_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_qmllint-Debug-7a317f9465ab73020888.json",
+					"name" : "app3_1rectangle_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_qmllint_json-Debug-0b42a660214b1484ebc1.json",
+					"name" : "app3_1rectangle_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_qmllint_module-Debug-188c0abe4ac23653af3c.json",
+					"name" : "app3_1rectangle_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_qmltyperegistration-Debug-6e632e247ed99362360b.json",
+					"name" : "app3_1rectangle_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3_1rectangle_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3_1rectangle_tooling-Debug-17343ceaa445a87845f6.json",
+					"name" : "app3_1rectangle_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gb/workspaces/qt_ws/qml_study/build-3_1rectangle-Desktop_Qt_6_8_0_64-Debug",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/3_1rectangle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

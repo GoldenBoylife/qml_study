@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="QtLogo.png">/home/gb/workspaces/qt_ws/qml_study/2_font/QtLogo.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/1_start/">
+    <file alias="Constants.qml">/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

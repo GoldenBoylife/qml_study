@@ -1,0 +1,12 @@
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/qml
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/qml
+-I
+/home/gb/Qt/6.8.0/gcc_64/./qml
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/imports/1_start/.rcc/qmake_1_start.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/imports/1_start/.rcc/1_start_raw_qml_0.qrc
+--module
+1_start

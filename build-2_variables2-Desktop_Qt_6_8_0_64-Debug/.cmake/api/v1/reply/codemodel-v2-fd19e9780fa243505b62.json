@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0a93c09af6dcd9764344.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2_variables2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-00bd7dcbe16d2918b76c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1c6eea4e6278a72c0e5f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-03e2b22e235e9e5cc57f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b188ca96c82236dade45.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2-Debug-5380f40f84fd933cc6c1.json",
+					"name" : "app2_variables2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_autogen-Debug-cd3b805f230dec2a87e7.json",
+					"name" : "app2_variables2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_autogen_timestamp_deps-Debug-729733d250af5d6427d6.json",
+					"name" : "app2_variables2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_qmlimportscan-Debug-5bd22de09642d935889c.json",
+					"name" : "app2_variables2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_qmllint-Debug-b7304b412a1df51e8ab1.json",
+					"name" : "app2_variables2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_qmllint_json-Debug-d1257c552ee9e6e133f7.json",
+					"name" : "app2_variables2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_qmllint_module-Debug-e323509fc9434aa68d08.json",
+					"name" : "app2_variables2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_qmltyperegistration-Debug-20dd100e6a6ac082611c.json",
+					"name" : "app2_variables2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_variables2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_variables2_tooling-Debug-db3387b42c6ed02439bf.json",
+					"name" : "app2_variables2_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gb/workspaces/qt_ws/qml_study/build-2_variables2-Desktop_Qt_6_8_0_64-Debug",
+		"source" : "/home/gb/workspaces/qt_ws/qml_study/2_variables2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

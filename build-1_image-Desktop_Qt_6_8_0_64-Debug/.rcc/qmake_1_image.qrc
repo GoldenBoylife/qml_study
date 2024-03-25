@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/1_image">
+    <file alias="qmldir">/home/gb/workspaces/qt_ws/qml_study/build-1_image-Desktop_Qt_6_8_0_64-Debug/1_image/qmldir</file>
+  </qresource>
+</RCC>
+

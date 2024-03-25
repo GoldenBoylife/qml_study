@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/1_windmill/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/1_windmill/Main.qml</file>
+    <file alias="resource.qrc">/home/gb/workspaces/qt_ws/qml_study/1_windmill/resource.qrc</file>
+  </qresource>
+</RCC>
+

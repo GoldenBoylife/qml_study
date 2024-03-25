@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/3_2anchors/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/3_2anchors/Main.qml</file>
+  </qresource>
+</RCC>
+

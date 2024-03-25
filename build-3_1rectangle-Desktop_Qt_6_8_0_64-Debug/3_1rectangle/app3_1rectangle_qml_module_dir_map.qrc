@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/3_1rectangle">/home/gb/workspaces/qt_ws/qml_study/build-3_1rectangle-Desktop_Qt_6_8_0_64-Debug/3_1rectangle</file>
+
+  </qresource>
+</RCC>

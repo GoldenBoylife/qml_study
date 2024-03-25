@@ -1,0 +1,17 @@
+--bare
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/qml
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/qml
+-I
+/home/gb/Qt/6.8.0/gcc_64/./qml
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/imports/1_start/.rcc/qmake_1_start.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/imports/1_start/.rcc/1_start_raw_qml_0.qrc
+/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/Constants.qml
+/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/DirectoryFontLoader.qml
+/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/EventListModel.qml
+/home/gb/workspaces/qt_ws/qml_study/1_start/imports/1_start/EventListSimulator.qml
+--json
+/home/gb/workspaces/qt_ws/qml_study/build-1_start-Desktop_Qt_6_8_0_64-Debug/1_start_qmllint.json

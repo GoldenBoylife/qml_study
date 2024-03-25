@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2_variables2/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/2_variables2/Main.qml</file>
+  </qresource>
+</RCC>
+

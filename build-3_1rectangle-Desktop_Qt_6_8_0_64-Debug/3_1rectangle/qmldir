@@ -1,0 +1,5 @@
+module 3_1rectangle
+typeinfo app3_1rectangle.qmltypes
+prefer :/3_1rectangle/
+Main 1.0 Main.qml
+

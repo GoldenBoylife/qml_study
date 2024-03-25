@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/2_font">/home/gb/workspaces/qt_ws/qml_study/build-2_font-Desktop_Qt_6_8_0_64-Debug/2_font</file>
+
+  </qresource>
+</RCC>

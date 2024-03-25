@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/1_image2/">
+    <file alias="Main.qml">/home/gb/workspaces/qt_ws/qml_study/1_image2/Main.qml</file>
+  </qresource>
+</RCC>
+

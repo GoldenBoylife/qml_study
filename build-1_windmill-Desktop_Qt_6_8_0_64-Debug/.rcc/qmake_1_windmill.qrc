@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/1_windmill">
+    <file alias="qmldir">/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug/1_windmill/qmldir</file>
+  </qresource>
+</RCC>
+

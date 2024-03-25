@@ -1,0 +1,5 @@
+module 1_image5
+typeinfo app1_image5.qmltypes
+prefer :/1_image5/
+Main 1.0 Main.qml
+

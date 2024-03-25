@@ -1,0 +1,14 @@
+-rootPath
+/home/gb/workspaces/qt_ws/qml_study/3_2anchors
+-cmake-output
+-output-file
+/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3_2anchors.cmake
+-importPath
+/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug/3_2anchors
+-importPath
+/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug
+-importPath
+/home/gb/Qt/6.8.0/gcc_64/./qml
+-qrcFiles
+/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug/.rcc/qmake_3_2anchors.qrc
+/home/gb/workspaces/qt_ws/qml_study/build-3_2anchors-Desktop_Qt_6_8_0_64-Debug/.rcc/app3_2anchors_raw_qml_0.qrc

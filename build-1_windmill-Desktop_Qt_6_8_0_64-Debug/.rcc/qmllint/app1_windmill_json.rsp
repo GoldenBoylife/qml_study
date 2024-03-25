@@ -1,0 +1,14 @@
+--bare
+-I
+/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug
+-I
+/home/gb/Qt/6.8.0/gcc_64/./qml
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug/.rcc/qmake_1_windmill.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug/.rcc/app1_windmill_raw_qml_0.qrc
+--resource
+/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug/.rcc/PRIFIX.qrc
+/home/gb/workspaces/qt_ws/qml_study/1_windmill/Main.qml
+--json
+/home/gb/workspaces/qt_ws/qml_study/build-1_windmill-Desktop_Qt_6_8_0_64-Debug/app1_windmill_qmllint.json

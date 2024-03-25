@@ -1,0 +1,4 @@
+module 1_image3
+typeinfo app1_image3.qmltypes
+prefer :/1_image3/
+

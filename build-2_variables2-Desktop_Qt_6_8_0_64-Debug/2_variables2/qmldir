@@ -1,0 +1,5 @@
+module 2_variables2
+typeinfo app2_variables2.qmltypes
+prefer :/2_variables2/
+Main 1.0 Main.qml
+
